@@ -1,3 +1,3 @@
 
 ### LOST AT SEA
-![image](MEDIA/GEARS.jpg)
+![image](/MEDIA/GEARS.jpg)
