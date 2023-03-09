@@ -26,6 +26,6 @@ I would like to create both circular and up and down motion of the waves. I aim 
 
 ## CONCERNS
 
-I still do not know how to make these waves move in opposite directions with an internal setup that is simmple. 
+I still do not know how to make these waves move in opposite directions with an internal setup that is simple. 
 
 
