@@ -1,3 +1,3 @@
-## Presentation on ![Jennifer Townley](http://www.jennifertownley.com/)
+## Presentation on [Jennifer Townley](http://www.jennifertownley.com/)
 
 
